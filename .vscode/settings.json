@@ -1,0 +1,10 @@
+{
+    "files.associations": {
+        "freertos.h": "c",
+        "bt121.h": "c",
+        "stm32f4xx_hal.h": "c",
+        "ssd1306.h": "c",
+        "main.h": "c",
+        "stm32f4xx_hal_rcc.h": "c"
+    }
+}

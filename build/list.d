@@ -1,0 +1,20 @@
+build/list.d: Src/RTOS/list.c Src/RTOS/Inc/FreeRTOS.h \
+ Src/RTOS/Inc/FreeRTOSConfig.h Src/RTOS/Inc/projdefs.h \
+ Src/RTOS/Inc/portable.h Src/RTOS/Inc/deprecated_definitions.h \
+ Src/RTOS/Inc/portmacro.h Src/RTOS/Inc/mpu_wrappers.h Src/RTOS/Inc/list.h
+
+Src/RTOS/Inc/FreeRTOS.h:
+
+Src/RTOS/Inc/FreeRTOSConfig.h:
+
+Src/RTOS/Inc/projdefs.h:
+
+Src/RTOS/Inc/portable.h:
+
+Src/RTOS/Inc/deprecated_definitions.h:
+
+Src/RTOS/Inc/portmacro.h:
+
+Src/RTOS/Inc/mpu_wrappers.h:
+
+Src/RTOS/Inc/list.h:
