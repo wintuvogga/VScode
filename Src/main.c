@@ -24,7 +24,7 @@ int main(void)
   HAL_Delay(2000);
   LCDClear();
   LCDDisplayUpdate();
-  WintuTest();
+ // WintuTest();
   xTaskCreate(BluetoothProcess, "Bluetooth", 1024, NULL, tskIDLE_PRIORITY, &bluetoothTaskHandle);
 
   vTaskStartScheduler();
